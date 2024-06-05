@@ -1,0 +1,10 @@
+{
+  "name": "duc-ba",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Quang Dang <88885581+Gnauqoa@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "docx": "^8.5.0"
+  }
+}
